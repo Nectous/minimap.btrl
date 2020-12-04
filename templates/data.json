@@ -1,10 +1,10 @@
 {
 "ExplorerTwi": { 
 "name": "explorer_twi.png", 
-"x": 0, 
-"y": 0, 
-"width": 130, 
-"height": 123 
+"x":-23020, 
+"y":-3810, 
+"width":130, 
+"height":123 
 }
 
 }
