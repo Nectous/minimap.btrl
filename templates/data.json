@@ -5,6 +5,13 @@
 "y":-3810, 
 "width":130, 
 "height":123 
-}
+},
+  "Serbia": { 
+"name": "Serbia.png", 
+"x": 3411, 
+"y":  -9762, 
+"width":759, 
+"height": 1052 
+},
 
 }
