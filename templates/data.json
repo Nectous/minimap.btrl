@@ -12,6 +12,13 @@
 "y":-9762, 
 "width":759, 
 "height":1052 
+},
+    "Evropa": { 
+"name": "Evropa.png", 
+"x":6725, 
+"y":-14590, 
+"width":202, 
+"height":154 
 }
 
 }
