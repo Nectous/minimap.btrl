@@ -33,5 +33,12 @@
 "y":-14239, 
 "width":250, 
 "height": 406
+},
+      "Krepost": { 
+"name": "Krepost.png", 
+"x":8630, 
+"y":-11910, 
+"width":110, 
+"height": 85
 }
 }
