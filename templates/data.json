@@ -40,5 +40,12 @@
 "y":-11910, 
 "width":110, 
 "height": 85
+},
+       "Poseidon": { 
+"name": "Poseidon.png", 
+"x":-2048, 
+"y":-297, 
+"width":120, 
+"height":200
 }
 }
