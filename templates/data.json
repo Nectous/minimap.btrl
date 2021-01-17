@@ -47,5 +47,12 @@
 "y":-297, 
 "width":120, 
 "height":200
+},
+      "Anime": { 
+"name": "Anime.png", 
+"x":-6161, 
+"y":-8671, 
+"width":150, 
+"height":150
 }
 }
