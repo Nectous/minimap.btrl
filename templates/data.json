@@ -27,12 +27,12 @@
 "width":116, 
 "height": 137
 },
-      "Imperka": { 
-"name": "Imperka.png", 
-"x":5684, 
-"y":-14239, 
-"width":250, 
-"height": 406
+      "Jellyfish": { 
+"name": "Jellyfish.png", 
+"x":15000, 
+"y":600, 
+"width":320, 
+"height": 195
 },
       "Krepost": { 
 "name": "Krepost.png", 
