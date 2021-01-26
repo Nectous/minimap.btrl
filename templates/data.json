@@ -54,5 +54,12 @@
 "y":-8671, 
 "width":150, 
 "height":150
+},
+       "Island": { 
+"name": "Island.png", 
+"x":3220, 
+"y":-7900, 
+"width":178, 
+"height":141
 }
 }
