@@ -61,5 +61,12 @@
 "y":-7900, 
 "width":178, 
 "height":141
+},
+         "Kris": { 
+"name": "Kris.png", 
+"x":-5980, 
+"y":-8680, 
+"width":72, 
+"height":147
 }
 }
