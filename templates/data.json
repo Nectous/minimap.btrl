@@ -75,5 +75,12 @@
 "y":-11024, 
 "width":160, 
 "height":159
-}
+},
+  "Vermont": { 
+"name": "Vermont.png", 
+"x":-13418, 
+"y":-9580, 
+"width":337, 
+"height":636 
+},
 }
