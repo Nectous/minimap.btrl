@@ -82,5 +82,11 @@
 "y":-2339, 
 "width":192, 
 "height":294
-}
+},
+   "ComputerCirno": { 
+"name": "ComputerCirno.png", 
+"x":7658, 
+"y":833, 
+"width":400, 
+"height":363
 }
